@@ -178,7 +178,9 @@ To install the add-on to support this device, follow these next instructions:
 
 1. In the Arduino IDE, go to `File > Preferences`:<br>
 
-<img src="https://raw.githubusercontent.com/afonsocraposo/scientisst-sense-arduino-ide-tutorial/main/images/file_preference_marked.png" width="200" style="display:block; margin:auto"/>
+<p align="center">
+<img src="https://raw.githubusercontent.com/afonsocraposo/scientisst-sense-arduino-ide-tutorial/main/images/file_preference_marked.png" width="200"/>
+</p>
 
 <br>
 
@@ -225,7 +227,9 @@ If you already have the URL of another board in the "Additional Board Manager UR
 
 To test your setup, upload the Blink sketch, one of the built-in examples of the Arduino IDE that can be loaded from `File > Examples > 01.Basics > Blink`:
 
-<img src="https://raw.githubusercontent.com/LeoPereira89817/scientisst-sense-arduino-ide-tutorial/main/images/blink.png" width="600" style="display:block; margin:auto"/>
+<p align="center">
+<img src="https://raw.githubusercontent.com/LeoPereira89817/scientisst-sense-arduino-ide-tutorial/main/images/blink.png" width="600"/>
+</p>
 
 <br>
 
