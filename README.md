@@ -11,32 +11,6 @@ In this lab, we will describe the main tools available in an instrumentation lab
 <div class="title" style="width:100%; background:#FDC86E;font-family:'arial black',monospace; text-align: center; padding: 7px 0; border-radius: 5px 50px;margin-top:-15px" >
 </div>
 
-### Multimeter
-
-A Multimeter is known as a multitester or VOM (Volt-Ohm Milliammeter). It is an all-in-one electronic measuring instrument that combines several measurement functions. Thus, it’ll be able to troubleshoot issues with your circuit or electronic designs!
-
-A typical multimeter nowadays looks like this:
-
-<p align="center">
-<img src="assets/img/IMG_1785.HEIC.jpg" width="350"/> 
-</p>
-
-As you can see, you have a selection knob that allows you to select what to measure.
-
-Selecting the `V` means you are measuring *Voltage* and using the multimeter probes you can measure the voltage across two terminals:
-
-<p align="center">
-<img src="assets/img/IMG_1786.HEIC.jpg" width="350"/> 
-</p>
-
-Another very useful feature of multimeters is the ability to test for continuity. This can be used to check if there is a short circuit in your circuit or to verify if something is connected properly. Just turn the knob to the continuity test position and press the blue button. Now if you touch the probes together the multimeter will *beep*.
-
-<p align="center">
-<img src="assets/img/IMG_1787.HEIC.jpg" width="350"/> 
-</p>
-
---- 
-
 ### DC Power Supply
 
 A DC power supply is a type of power supply that gives direct current (DC) voltage to power a device. Because DC power supply is commonly used on an engineer's or technician's bench for a ton of power tests, they are also often called a "bench power supply".
@@ -72,6 +46,32 @@ You can easily power your circuit with a power supply:
 
 
 ---
+
+### Multimeter
+
+A Multimeter is known as a multitester or VOM (Volt-Ohm Milliammeter). It is an all-in-one electronic measuring instrument that combines several measurement functions. Thus, it’ll be able to troubleshoot issues with your circuit or electronic designs!
+
+A typical multimeter nowadays looks like this:
+
+<p align="center">
+<img src="assets/img/IMG_1785.HEIC.jpg" width="350"/> 
+</p>
+
+As you can see, you have a selection knob that allows you to select what to measure.
+
+Selecting the `V` means you are measuring *Voltage* and using the multimeter probes you can measure the voltage across two terminals:
+
+<p align="center">
+<img src="assets/img/IMG_1786.HEIC.jpg" width="350"/> 
+</p>
+
+Another very useful feature of multimeters is the ability to test for continuity. This can be used to check if there is a short circuit in your circuit or to verify if something is connected properly. Just turn the knob to the continuity test position and press the blue button. Now if you touch the probes together the multimeter will *beep*.
+
+<p align="center">
+<img src="assets/img/IMG_1787.HEIC.jpg" width="350"/> 
+</p>
+
+--- 
 ### Function Generator
 
 A function generator is usually a piece of electronic test equipment or software used to generate different types of electrical waveforms over a wide range of frequencies. Some of the most common waveforms produced by the function generator are the sine wave, square wave, triangular wave, and sawtooth shapes.
